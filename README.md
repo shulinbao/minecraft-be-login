@@ -6,7 +6,7 @@ This is a JavaScript plugin for LiteLoaderBDS that supports basic external white
 ## Dependencies  
 This plugin requires [LiteLDev/LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS) to run.  
 
-## Note:  
+## Note
 This plugin does not create the `daily` scoreboard. If new players join the game, make sure to manually create this scoreboard for them.  
 
 ## Important Notes  
