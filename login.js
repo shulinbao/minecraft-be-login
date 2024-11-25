@@ -8,7 +8,7 @@ if (loginData == null) {
     // 创建插件目录并保存初始数据文件
     File.mkdir('.\\plugins\\Login');
     File.writeTo('plugins/Login/Logininterval.json', jsonData);
-    log('首次加载Login插件，数据文件已保存至 BDS 根目录/plugins/Login/Logininterval.json');
+    log('首次加载 Login 插件，数据已保存至 ./plugins/Login/Logininterval.json');
 }
 
 // 玩家加入事件监听
